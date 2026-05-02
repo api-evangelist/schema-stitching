@@ -49,6 +49,15 @@ apis:
         url: https://github.com/ardatan/graphql-tools
       - type: npm Package
         url: https://www.npmjs.com/package/@graphql-tools/stitch
+      - type: JSONSchema
+        url: >-
+          https://raw.githubusercontent.com/api-evangelist/schema-stitching/refs/heads/main/json-schema/schema-stitching-config-schema.json
+      - type: JSONStructure
+        url: >-
+          https://raw.githubusercontent.com/api-evangelist/schema-stitching/refs/heads/main/json-structure/schema-stitching-config-structure.json
+      - type: JSONLd
+        url: >-
+          https://raw.githubusercontent.com/api-evangelist/schema-stitching/refs/heads/main/json-ld/schema-stitching-context.jsonld
   - aid: schema-stitching:graphql-mesh
     name: GraphQL Mesh
     description: >-
@@ -111,6 +120,12 @@ common:
     url: https://github.com/ardatan
   - type: Blog
     url: https://the-guild.dev/blog
+  - type: Vocabulary
+    url: >-
+      https://raw.githubusercontent.com/api-evangelist/schema-stitching/refs/heads/main/vocabulary/schema-stitching-vocabulary.yml
+  - type: Examples
+    url: >-
+      https://raw.githubusercontent.com/api-evangelist/schema-stitching/refs/heads/main/examples/schema-stitching-basic-gateway-example.json
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

@@ -13,6 +13,7 @@ The primary implementation is provided by The Guild's `@graphql-tools/stitch` pa
 - [Schema Stitching Handbook](https://the-guild.dev/graphql/stitching/handbook)
 - [GitHub Repository](https://github.com/ardatan/graphql-tools)
 - [npm Package](https://www.npmjs.com/package/@graphql-tools/stitch)
+- [Blog](https://the-guild.dev/blog)
 
 ## Core Concepts
 
