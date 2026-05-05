@@ -1,0 +1,13 @@
+{
+  "repo": "schema-stitching",
+  "feeds": [
+    {
+      "source": "https://the-guild.dev/blog",
+      "feed_url": "https://the-guild.dev/feed.xml",
+      "saved": 10,
+      "title": "The Guild Blog"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:35:39Z"
+}
