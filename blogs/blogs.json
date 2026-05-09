@@ -3,11 +3,11 @@
   "feeds": [
     {
       "source": "https://the-guild.dev/blog",
-      "feed_url": "https://the-guild.dev/feed.xml",
-      "saved": 10,
-      "title": "The Guild Blog"
+      "feed_url": "https://the-guild.dev/blog/feed/",
+      "title": "The Guild Blog",
+      "saved": 0
     }
   ],
   "post_count": 10,
-  "fetched": "2026-05-03T23:35:39Z"
+  "fetched": "2026-05-09T20:17:51Z"
 }
