@@ -41,11 +41,11 @@ apis:
     properties:
       - type: Documentation
         url: https://the-guild.dev/graphql/stitching/docs
-      - type: Getting Started
+      - type: GettingStarted
         url: https://the-guild.dev/graphql/stitching/docs/getting-started
       - type: Handbook
         url: https://the-guild.dev/graphql/stitching/handbook
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/ardatan/graphql-tools
       - type: npm Package
         url: https://www.npmjs.com/package/@graphql-tools/stitch
@@ -55,7 +55,7 @@ apis:
       - type: JSONStructure
         url: >-
           https://raw.githubusercontent.com/api-evangelist/schema-stitching/refs/heads/main/json-structure/schema-stitching-config-structure.json
-      - type: JSONLd
+      - type: JSONLD
         url: >-
           https://raw.githubusercontent.com/api-evangelist/schema-stitching/refs/heads/main/json-ld/schema-stitching-context.jsonld
   - aid: schema-stitching:graphql-mesh
@@ -73,7 +73,7 @@ apis:
     properties:
       - type: Documentation
         url: https://the-guild.dev/graphql/mesh/docs
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/ardatan/graphql-mesh
   - aid: schema-stitching:hive-gateway
     name: Hive Gateway
@@ -89,7 +89,7 @@ apis:
     properties:
       - type: Documentation
         url: https://the-guild.dev/graphql/hive/docs/gateway
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/the-guild-org/gateway
   - aid: schema-stitching:apollo-federation
     name: Apollo Federation
@@ -107,7 +107,7 @@ apis:
     properties:
       - type: Documentation
         url: https://www.apollographql.com/docs/federation/
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/apollographql/federation
 common:
   - type: Website
@@ -116,7 +116,7 @@ common:
     url: https://the-guild.dev/graphql/stitching/docs
   - type: Handbook
     url: https://the-guild.dev/graphql/stitching/handbook
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/ardatan
   - type: Blog
     url: https://the-guild.dev/blog
