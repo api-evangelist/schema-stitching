@@ -2,12 +2,20 @@
   "repo": "schema-stitching",
   "feeds": [
     {
-      "source": "https://the-guild.dev/blog",
+      "source": "https://the-guild.dev/blog/feed/",
       "feed_url": "https://the-guild.dev/blog/feed/",
-      "title": "The Guild Blog",
-      "saved": 41
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://github.com/ardatan",
+      "feed_url": "https://github.com/ardatan",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
   "post_count": 51,
-  "fetched": "2026-05-17T20:20:35Z"
+  "fetched": "2026-06-01T23:35:02Z"
 }
