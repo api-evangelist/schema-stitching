@@ -9,7 +9,7 @@ description: >-
   Guild's graphql-tools library, with support for type merging, stitching
   directives, schema delegation, and automated query planning.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
 - API Composition
 - API Gateway
