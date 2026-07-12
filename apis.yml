@@ -112,6 +112,8 @@ apis:
   - type: GitHubRepository
     url: https://github.com/apollographql/federation
 common:
+- type: DomainSecurity
+  url: security/schema-stitching-domain-security.yml
 - type: Website
   url: https://the-guild.dev/graphql/stitching
 - type: Documentation
